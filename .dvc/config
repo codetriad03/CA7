@@ -1,0 +1,6 @@
+[core]
+    remote = myremote2
+['remote "myremote"']
+    url = s3://your-bucket-name/path/to/your/data
+['remote "myremote2"']
+    url = s3://smolfatukashfabucket/

@@ -1,0 +1,5 @@
+outs:
+- md5: 1fde6bbd7c30f294fec67ea26a906b54
+  size: 1824
+  hash: md5
+  path: news_headlines.txt
