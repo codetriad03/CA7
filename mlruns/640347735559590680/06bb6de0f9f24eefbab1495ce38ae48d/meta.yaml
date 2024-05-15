@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/640347735559590680/06bb6de0f9f24eefbab1495ce38ae48d/artifacts
+end_time: 1715760840316
+entry_point_name: ''
+experiment_id: '640347735559590680'
+lifecycle_stage: active
+run_id: 06bb6de0f9f24eefbab1495ce38ae48d
+run_name: Random Forest
+run_uuid: 06bb6de0f9f24eefbab1495ce38ae48d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715760840008
+status: 3
+tags: []
+user_id: HP

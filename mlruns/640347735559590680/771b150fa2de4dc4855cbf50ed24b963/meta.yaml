@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/640347735559590680/771b150fa2de4dc4855cbf50ed24b963/artifacts
+end_time: 1715759427928
+entry_point_name: ''
+experiment_id: '640347735559590680'
+lifecycle_stage: active
+run_id: 771b150fa2de4dc4855cbf50ed24b963
+run_name: Gradient Boosting
+run_uuid: 771b150fa2de4dc4855cbf50ed24b963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715759423518
+status: 3
+tags: []
+user_id: HP

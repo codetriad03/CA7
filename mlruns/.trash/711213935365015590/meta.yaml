@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/711213935365015590
+creation_time: 1715756095479
+experiment_id: '711213935365015590'
+last_update_time: 1715759545819
+lifecycle_stage: deleted
+name: model_selection.py
+tags: {}
