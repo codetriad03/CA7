@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/640347735559590680/e6f00799f3eb45e4bb161c142cbc4815/artifacts
+end_time: 1715762125877
+entry_point_name: ''
+experiment_id: '640347735559590680'
+lifecycle_stage: active
+run_id: e6f00799f3eb45e4bb161c142cbc4815
+run_name: Support Vector Machine
+run_uuid: e6f00799f3eb45e4bb161c142cbc4815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715762125361
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/640347735559590680/bc363afe11484c8eb199eea6e5ba0766/artifacts
+end_time: 1715764577209
+entry_point_name: ''
+experiment_id: '640347735559590680'
+lifecycle_stage: active
+run_id: bc363afe11484c8eb199eea6e5ba0766
+run_name: Neural Network
+run_uuid: bc363afe11484c8eb199eea6e5ba0766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715764562419
+status: 3
+tags: []
+user_id: HP

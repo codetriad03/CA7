@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/640347735559590680/9ba7c82cafdf46e28393d2e1b1d09b90/artifacts
+end_time: 1715758672572
+entry_point_name: ''
+experiment_id: '640347735559590680'
+lifecycle_stage: active
+run_id: 9ba7c82cafdf46e28393d2e1b1d09b90
+run_name: Decision Tree
+run_uuid: 9ba7c82cafdf46e28393d2e1b1d09b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715758662227
+status: 3
+tags: []
+user_id: HP
