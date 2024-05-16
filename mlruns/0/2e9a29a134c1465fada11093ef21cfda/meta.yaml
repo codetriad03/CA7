@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/0/2e9a29a134c1465fada11093ef21cfda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e9a29a134c1465fada11093ef21cfda
+run_name: bold-ray-463
+run_uuid: 2e9a29a134c1465fada11093ef21cfda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715880681966
+status: 1
+tags: []
+user_id: fatima
