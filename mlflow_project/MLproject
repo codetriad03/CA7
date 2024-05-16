@@ -1,0 +1,5 @@
+name: my_mlflow_project
+
+entry_points:
+  main:
+    command: "python app.py"
