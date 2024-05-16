@@ -19,3 +19,19 @@ In this step, the data was processed and evaluation was done on certain models t
    Chose the best-performing model based on evaluation results.
 7. Model Deployment:
    Deployed the selected model for production, involving packaging, API creation, containerization, or integration.
+TASK 3:
+Testing Performance with Live Data:
+
+Created an MLflow project-compatible repository containing the trained machine learning model and associated scripts.
+Split the fetched live data into training and testing sets. Validated the model's performance using a validation set and evaluated its generalization ability on the testing set.
+Executed the MLflow project script using live data fetched by DVC. Monitored the model's performance metrics and compared them with predefined thresholds or benchmarks.
+Commands to Execute
+To run the MLflow project script:
+
+mlflow run https://github.com/account_name/CA7.git
+
+
+
+
+
+
