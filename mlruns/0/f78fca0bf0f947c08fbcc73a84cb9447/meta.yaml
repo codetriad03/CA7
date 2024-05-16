@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/0/f78fca0bf0f947c08fbcc73a84cb9447/artifacts
+end_time: 1715883248438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f78fca0bf0f947c08fbcc73a84cb9447
+run_name: dashing-lark-119
+run_uuid: f78fca0bf0f947c08fbcc73a84cb9447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715882071853
+status: 4
+tags: []
+user_id: fatima

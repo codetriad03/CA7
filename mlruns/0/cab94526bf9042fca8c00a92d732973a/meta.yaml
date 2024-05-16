@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/0/cab94526bf9042fca8c00a92d732973a/artifacts
+end_time: 1715881872840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cab94526bf9042fca8c00a92d732973a
+run_name: bald-worm-666
+run_uuid: cab94526bf9042fca8c00a92d732973a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715881872351
+status: 4
+tags: []
+user_id: fatima

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/0/fc417525f3d34ba1b65b3af1128707fc/artifacts
+end_time: 1715881920617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc417525f3d34ba1b65b3af1128707fc
+run_name: unique-turtle-129
+run_uuid: fc417525f3d34ba1b65b3af1128707fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715881920015
+status: 4
+tags: []
+user_id: fatima
