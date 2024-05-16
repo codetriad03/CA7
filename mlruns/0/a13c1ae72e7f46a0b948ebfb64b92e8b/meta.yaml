@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/CA7/mlruns/0/a13c1ae72e7f46a0b948ebfb64b92e8b/artifacts
+end_time: 1715881796280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a13c1ae72e7f46a0b948ebfb64b92e8b
+run_name: receptive-wren-99
+run_uuid: a13c1ae72e7f46a0b948ebfb64b92e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715881794418
+status: 4
+tags: []
+user_id: fatima
